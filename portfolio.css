@@ -14,7 +14,7 @@ html,body{
     margin: 0;
 }
 body *{
-    transition:all 0.5s ease-in-out;
+    transition:all 0.1s ease-in-out;
 }
 h1,h2,h3,h4,h5,h6,strong{
 color:var(--mainText);
@@ -27,7 +27,7 @@ p,li,span,label,input,textarea{
 }
 a{
     text-decoration: none;
-    color#17a2b8;
+    color:#17a2b8;
 }
 ul{
     list-style: none;
